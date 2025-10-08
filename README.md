@@ -24,3 +24,11 @@ A lightweight, browser-based Kanban board for task management. Built with React 
 - Integration with Firebase for backend logic and real-time updates
 - Responsive UI and clean state management
 - Practical use of hooks and asynchronous data flow
+
+## 👨‍🎓 What I Have Learned From This Project
+- Applied SCRUM principles actively: Worked in sprints, held regular stand-ups, and used Kanban boards to track progress and prioritize tasks.
+- Collaborative development: Coordinated with teammates, resolved merge conflicts, and communicate clearly.
+- DevOps mindset: Managed deployment pipelines, version control (Git), and continuous integration practices.
+- Working with unfamiliar codebases: Navigated legacy components, refactored third-party logic, and improved readability and modularity.
+- Frontend-backend integration: Connected Frontendcomponents with Firebase backend, handled async data flow, and ensured real-time updates.
+- UI/UX refinement: Implemented UI layouts based on Figma specifications, ensuring design fidelity and responsive behavior across devices.
