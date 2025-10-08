@@ -1,3 +1,5 @@
+JOIN is a web application developed as part of a student group project. This project is intended for educational purposes only and is not designed for commercial use or extensive personal use.
+
 # 🗂️ Kanban Tool
 
 A lightweight, browser-based Kanban board for task management. Built with React and Firebase, focusing on clean UI, modular code structure, and intuitive drag-and-drop functionality.
